@@ -1,5 +1,7 @@
 # Pylar AI Cargo Maker
 
+<img width="640" alt="Pylar AI-Cargo Maker-miguelgargallo" src="https://user-images.githubusercontent.com/5947268/210122458-e209926f-4ae9-4b5e-ab0a-72c24783cfce.png">
+
 - [Pylar AI Cargo Maker](#pylar-ai-cargo-maker)
   - [Usage](#usage)
   - [Example](#example)
