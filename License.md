@@ -5,7 +5,7 @@ Copyright &copy; 2022 Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDAT
 | November 1st December of 2022 | ✅ Private use | ❌ Commercial use | [License and copyright notice](#section-i-preamble)
 | From: [LEGAL ITAMAEASAN](mailto:legal@itamaesan.org) Contact us through this address. | ✅Science Publications | ❌ Liability |  |
 |  | ✅ Research Publications | ❌ Distribution |  |
-| Version: pre-v0.0.2 | ✅ Non-commercial publications  | ❌ Warranty |  |
+| Version: 0.0.2 | ✅ Non-commercial publications  | ❌ Warranty |  |
 |  | ✅ No endorse publications | ❌ Modification to endorse |  |  |
 |  | ✅ Modification only to PR | ❌ Modification to PR outside the [Official Sources](#official-sources)  |  |  |
 | This is not legal advice. [Learn more about repository licenses.](#section-i-preamble) | ✅ Use this license according [Section Indications](#section-0-indications)  | ❌ Modification for commercial use  |  |  |
