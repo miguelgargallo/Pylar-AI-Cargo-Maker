@@ -1,0 +1,8 @@
+[package]
+name = "my-cool-project"
+version = "0.1.0"
+authors = ["Jane Doe <jane@example.com>"]
+
+[dependencies]
+crate1 = "1.2.3"
+crate2 = "4.5.6"
