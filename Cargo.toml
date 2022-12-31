@@ -1,8 +1,0 @@
-[package]
-name = "something"
-version = "0.0.1"
-authors = ["Pencil Works LLC <it@pencil.li>"]
-
-[dependencies]
-crate1 = "0.0.0"
-crate2 = "0.0.0"

@@ -1,0 +1,8 @@
+[package]
+name = "formatter"
+version = "0.0.1"
+authors = ["Pencil Works LLC <it@pylar.org>"]
+
+[dependencies]
+open = "3.2.0"
+walkdir = "2.3.2"
