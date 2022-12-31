@@ -1,4 +1,4 @@
-Copyright &copy; 2022 Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDATAS, Pylar Team.
+Copyright &copy; 2022 Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDATAS, Pylar Org Team.
 
 | Pylar AI creative ML | Permissions  | Limitations | Conditions |
 | ------------ | ------------ | ------------ | ------------ |
