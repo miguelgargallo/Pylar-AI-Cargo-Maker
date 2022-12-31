@@ -53,4 +53,4 @@ Pylar AI Cargo Maker was developed by the team at Pylar AI, a leading provider o
 
 ## License
 
-Pylar AI creative ML License. See the LICENSE file for details. [./LICENSE.md](https://github.com/miguelgargallo/Pylar-AI-Cargo-Maker/blob/master/License.md)
+Pylar AI creative ML License. See the LICENSE file for details. [LICENSE.md](https://github.com/miguelgargallo/Pylar-AI-Cargo-Maker/blob/master/License.md)
